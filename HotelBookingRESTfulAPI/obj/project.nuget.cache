@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZWZ/1wpDXcZzsMHD6RnhINxttZbG4VbMhsNUSS5ZsHQ49RAZLgXyNWodecICSw1aLmRqmkZEbNj5D3B6sga+dA==",
+  "dgSpecHash": "GQQM/6FIM3TMcEsKcXN6BWQF3RFzQYXMc+fpVx3pzcl6lrfpsVkpU2Sp8U3ThxejKtEMh4ly9HkOIVCUkeYvWg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Saidus\\OneDrive\\Documents\\_Software Engineering\\Web Application\\RESTfulDemo\\RESTfulDemo\\HotelBookingAPI.csproj",
+  "projectFilePath": "C:\\Users\\Saidus\\OneDrive\\Documents\\_Software Engineering\\Web Application\\HotelBookingAPI\\HotelBookingRESTfulAPI\\HotelBookingRESTfulAPI\\HotelBookingAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Saidus\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Saidus\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.5\\microsoft.entityframeworkcore.7.0.5.nupkg.sha512",

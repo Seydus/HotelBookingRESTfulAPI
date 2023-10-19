@@ -1246,11 +1246,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Saidus\\OneDrive\\Documents\\_Software Engineering\\Web Application\\RESTfulDemo\\RESTfulDemo\\HotelBookingAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Saidus\\OneDrive\\Documents\\_Software Engineering\\Web Application\\HotelBookingAPI\\HotelBookingRESTfulAPI\\HotelBookingRESTfulAPI\\HotelBookingAPI.csproj",
       "projectName": "HotelBookingAPI",
-      "projectPath": "C:\\Users\\Saidus\\OneDrive\\Documents\\_Software Engineering\\Web Application\\RESTfulDemo\\RESTfulDemo\\HotelBookingAPI.csproj",
+      "projectPath": "C:\\Users\\Saidus\\OneDrive\\Documents\\_Software Engineering\\Web Application\\HotelBookingAPI\\HotelBookingRESTfulAPI\\HotelBookingRESTfulAPI\\HotelBookingAPI.csproj",
       "packagesPath": "C:\\Users\\Saidus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Saidus\\OneDrive\\Documents\\_Software Engineering\\Web Application\\RESTfulDemo\\RESTfulDemo\\obj\\",
+      "outputPath": "C:\\Users\\Saidus\\OneDrive\\Documents\\_Software Engineering\\Web Application\\HotelBookingAPI\\HotelBookingRESTfulAPI\\HotelBookingRESTfulAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Saidus\\AppData\\Roaming\\NuGet\\NuGet.Config",
